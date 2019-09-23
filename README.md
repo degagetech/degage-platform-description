@@ -14,6 +14,7 @@
 <a href="README_en-US.md" title="english description"><img src="https://img.shields.io/badge/language-EN--US-orange.svg?style=for-the-badge"/></a>
 </p>
 <h2><p align="center">前言</p></h2>
+
  DEGAGE 是一个为软件开发整个生命周期中提供各种各样工具与一系列分布式组件与技术方案的平台，我们希望无论在开发生命周期中从事何种工作的人，都可以享受到平台带来的便利，并为公司或个人带来统一快速的开发框架以及经验积累的容器。  
 
  为不同的人员我们提供不同的辅助。
