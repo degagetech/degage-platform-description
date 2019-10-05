@@ -1,8 +1,5 @@
-<p style="display:inline">
 
-<img src="https://img.shields.io/badge/build-failing-red.svg?style=for-the-badge&logo=appveyor"/>
-<img src="https://img.shields.io/badge/schedule-5%25-orange.svg?style=for-the-badge&logo=appveyor"/>
-</p>
+
 
 <p align="center">
 <img width="150" src="images/logo.png" alt="Degage Logo">
@@ -14,7 +11,6 @@
 <a href="README_en-US.md" title="english description"><img src="https://img.shields.io/badge/language-EN--US-orange.svg?style=for-the-badge"/></a>
 </p>
 <h2><p align="center">前言</p></h2>
-
  DEGAGE 是一个为软件开发整个生命周期中提供各种各样工具与一系列分布式组件与技术方案的平台，我们希望无论在开发生命周期中从事何种工作的人，都可以享受到平台带来的便利，并为公司或个人带来统一快速的开发框架以及经验积累的容器。  
 
  为不同的人员我们提供不同的辅助。
@@ -39,7 +35,7 @@
 
 - [基础组件](#基础组件)
      - [基础类库](#基础类库)
-     - [数据模型](#数据模型) （10%）[📃](data-model/DATAMODEL.md "查看对于此章的详细描述")
+     - [数据模型](#数据模型) （10%）[📃](https://github.com/degagetech/degage-platform-data-model "查看对于此组件的详细描述")
          - [数据描述](#数据描述)
          - [数据访问](#数据访问)
            - [数据库](#数据库)
@@ -106,7 +102,7 @@
         - [MariaDb](#MariaDb)
         - [PostgreSQL](#PostgreSQL)
         - [Redis](#Redis)
- 
+
 ### 平台组件在实际中的应用交互示例
 （请您参照大纲图示中信息阅读）
 
@@ -128,9 +124,8 @@
 <img  src="images/example-application3.png" >
 </p>
 
-
-**** 
-若有兴趣加入我们一起完善此平台，您可以通过TIM扫描下面的二维码，并备注您的开源项目地址。
+****
+若有兴趣加入我们一起完善此平台，您可以通过TIM扫描下面的二维码，并备注您最得意的开源项目地址。
 <p>
 <img width='150'  src="images/contact-tim.jpg" >
 </p>
