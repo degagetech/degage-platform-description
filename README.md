@@ -30,7 +30,7 @@ Hi，Every one 。
 
 *链接一下个人博客*
 
-您可以访问：[http://degagetech.github.io](http://degagetech.github.io/) 😚
+您可以访问：[http://degagetech.github.io](http://degagetech.github.io/) 😚  
 国内用户也可以访问:[http://blog.degage.tech](http://blog.degage.tech/) 😙
 
 ------
@@ -116,7 +116,14 @@ Hi，Every one 。
         - [PostgreSQL](#PostgreSQL)
         - [Redis](#Redis)
 
+每个组件都会包含有自己的工具集，当然还有一些组件之外的小工具，我们正逐步将它们整理出来。
+
+您可以在 [此处](https://github.com/degagetech/degage-platform-toolbox) 查看。
+
+
+
 ### 平台组件在实际中的应用交互示例
+
 （请您参照大纲图示中信息阅读）
 
 #### 1. 单业务系统
