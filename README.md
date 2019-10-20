@@ -122,7 +122,7 @@ Hi，Every one 。
 
 ### 工具箱
 
-每个组件都会包含有自己的工具集，当然还有属于组件之外的小工具，它们旨在减少您重复枯燥的工作、已经为您带来乐趣，我们正逐步将它们整理出来，并会持续更新，您可以在 [此处](https://github.com/degagetech/degage-platform-toolbox) 查看。
+每个组件都会包含有自己的工具集，当然还有属于组件之外的小工具，它们旨在减少您重复枯燥的工作、并为您带来乐趣😄，我们正逐步将它们整理出来，并会持续更新，您可以在 [此处](https://github.com/degagetech/degage-platform-toolbox) 查看。
 
 
 
