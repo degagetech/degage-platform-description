@@ -46,6 +46,8 @@ Hi，Every one 。
 
 ***目录***
 
+*（注：目录旁有 📕 字样的符号，表示我们已经开始为其编写文档。）*
+
 - [基础组件](#基础组件)
      - [基础类库](#基础类库)
      - [数据模型](#数据模型)  [📕](https://github.com/degagetech/degage-platform-data-model "查看对于此组件的详细描述")
@@ -116,9 +118,11 @@ Hi，Every one 。
         - [PostgreSQL](#PostgreSQL)
         - [Redis](#Redis)
 
-每个组件都会包含有自己的工具集，当然还有一些组件之外的小工具，我们正逐步将它们整理出来。
+------
 
-您可以在 [此处](https://github.com/degagetech/degage-platform-toolbox) 查看。
+### 工具箱
+
+每个组件都会包含有自己的工具集，当然还有属于组件之外的小工具，它们旨在减少您重复枯燥的工作、已经为您带来乐趣，我们正逐步将它们整理出来，并会持续更新，您可以在 [此处](https://github.com/degagetech/degage-platform-toolbox) 查看。
 
 
 
