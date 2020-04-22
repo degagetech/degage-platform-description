@@ -64,7 +64,7 @@ Hi，Every one 。
          - [远程调用](#远程调用)
          - [服务注册与发现](#服务注册与发现)
          - [服务一致性模型](#服务一致性模型)
-- [功能组件模型](#功能组件平台)
+- [功能组件模型](#功能组件平台) [📕](https://github.com/degagetech/degage-platform-functional-component-model "查看对于此组件的详细描述")
      - [功能组件模型](#功能组件模型)
          - [组件规范](#组件规范)
          - [协同运作](#协同运作)
@@ -147,7 +147,6 @@ Hi，Every one 。
 <p align="center">
 <img  src="images/example-application3.png" >
 </p>
-
 ****
 若有兴趣加入我们一起完善此平台，您可以通过TIM扫描下面的二维码，并备注您最得意的开源项目地址。
 <p>
